@@ -1,0 +1,923 @@
+﻿[
+		{
+		"Product Code (article)": "CD01 ",
+		"Product Name": "Dishwashing liquid ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "1",
+		"Product Volume": "750mls",
+		"Product Weight": "0.81kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD01 ",
+		"Product Name": "Dishwashing liquid ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "2",
+		"Product Volume": "2L",
+		"Product Weight": "2.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD01 ",
+		"Product Name": "Dishwashing liquid ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "6",
+		"Product Volume": "5L",
+		"Product Weight": "5.4kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD01 ",
+		"Product Name": "Dishwashing liquid ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "27",
+		"Product Volume": "25L ",
+		"Product Weight": "27kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "0.8",
+		"Product Volume": "100ML",
+		"Product Weight": "0.12Kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "1.5",
+		"Product Volume": "200ML",
+		"Product Weight": "0.22kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "2.8",
+		"Product Volume": "500ML",
+		"Product Weight": "0.49kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "4.3",
+		"Product Volume": "500ML",
+		"Product Weight": "0.52kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "7.6",
+		"Product Volume": "2L",
+		"Product Weight": "2.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD02",
+		"Product Name": "Alcohol Based Hand sanitiser",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "18",
+		"Product Volume": "5L",
+		"Product Weight": "4.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD03 ",
+		"Product Name": "Scouring Powder ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "0.8",
+		"Product Volume": "1kg",
+		"Product Weight": "1Kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD03 ",
+		"Product Name": "Scouring Powder ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "4",
+		"Product Volume": "5kg",
+		"Product Weight": "5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD03 ",
+		"Product Name": "Scouring Powder ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "20",
+		"Product Volume": "20kg",
+		"Product Weight": "20kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD04",
+		"Product Name": "Antibacteral Liquid hand soap",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "7",
+		"Product Volume": "5L",
+		"Product Weight": "5.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD04",
+		"Product Name": "Antibacteral Liquid hand soap",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "32",
+		"Product Volume": "25L ",
+		"Product Weight": "26.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD05",
+		"Product Name": "Pine gel",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "1.25",
+		"Product Volume": "500g",
+		"Product Weight": "0.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD05",
+		"Product Name": "Pine gel",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "2.5",
+		"Product Volume": "1kg",
+		"Product Weight": "1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD05",
+		"Product Name": "Pine gel",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "11",
+		"Product Volume": "5kg",
+		"Product Weight": "5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD05",
+		"Product Name": "Pine gel",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "52",
+		"Product Volume": "20kg",
+		"Product Weight": "20kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD05",
+		"Product Name": "Pine gel",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "55",
+		"Product Volume": "25kg",
+		"Product Weight": "25kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD08",
+		"Product Name": "Blue Fresh",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "3.5",
+		"Product Volume": "2L",
+		"Product Weight": "2.44kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD08",
+		"Product Name": "Blue Fresh",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "7",
+		"Product Volume": "5L",
+		"Product Weight": "5.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD08",
+		"Product Name": "Blue Fresh",
+		"Category": "Disinfectant care ",
+		"Product Price (USD)": "35",
+		"Product Volume": "25L ",
+		"Product Weight": "27.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 3.5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "0.8",
+		"Product Volume": "750mls",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 3.5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "5",
+		"Product Volume": "5L",
+		"Product Weight": "5.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 3.5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "20",
+		"Product Volume": "25L ",
+		"Product Weight": "26.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "1",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "6",
+		"Product Volume": "5L",
+		"Product Weight": "5.4kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 5%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "25",
+		"Product Volume": "25L ",
+		"Product Weight": "27kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 10%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "15",
+		"Product Volume": "5L",
+		"Product Weight": "5.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09",
+		"Product Name": "Bleach 10%",
+		"Category": "Laundry division ",
+		"Product Price (USD)": "75",
+		"Product Volume": "25L ",
+		"Product Weight": "27.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09B",
+		"Product Name": "Thick Bleach Pot Pourri",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "1.1499999999999999",
+		"Product Volume": "750mls",
+		"Product Weight": "0.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09B",
+		"Product Name": "Thick Bleach Lavender",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "1.1499999999999999",
+		"Product Volume": "750mls",
+		"Product Weight": "0.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09B",
+		"Product Name": "Thick Bleach Mountain Breeze",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "1.1499999999999999",
+		"Product Volume": "750mls",
+		"Product Weight": "0.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD09B",
+		"Product Name": "Thick Bleach ",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "8",
+		"Product Volume": "5L",
+		"Product Weight": "5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD10",
+		"Product Name": "Window Cleaner",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "2.1",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.73kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD10",
+		"Product Name": "Window Cleaner",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "8",
+		"Product Volume": "5L",
+		"Product Weight": "4.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD10",
+		"Product Name": "Window Cleaner",
+		"Category": "General purpose cleaners ",
+		"Product Price (USD)": "24",
+		"Product Volume": "25L ",
+		"Product Weight": "24kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD11",
+		"Product Name": "Carpert and Upholstery Cleaner",
+		"Category": "Carpet and Uphostrey cleaners ",
+		"Product Price (USD)": "6",
+		"Product Volume": "5L",
+		"Product Weight": "4.4kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "",
+		"Product Volume": "2L",
+		"Product Weight": "2.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "",
+		"Product Volume": "5L",
+		"Product Weight": "4.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "",
+		"Product Volume": "25L ",
+		"Product Weight": "23kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "1.2",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "1.2",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "Toilet Cleaning Gel ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "26",
+		"Product Volume": "25L ",
+		"Product Weight": "23kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "3 Way Bathroom cleaner Pine scented & Berry blast ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "2",
+		"Product Volume": "2L",
+		"Product Weight": "2.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "3 Way Bathroom cleaner Pine scented & Berry blast ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "5.5",
+		"Product Volume": "5L",
+		"Product Weight": "4.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "3 Way Bathroom cleaner Pine scented & Berry blast ",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "22",
+		"Product Volume": "25L ",
+		"Product Weight": "23kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "3 way bathroom cleaner Berry blast",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "1.2",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD12",
+		"Product Name": "3 way bathroom cleaner Pine scented",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "1.2",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD13",
+		"Product Name": "Channel blocks",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "5",
+		"Product Volume": "500g",
+		"Product Weight": "0.5Kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD13",
+		"Product Name": "Channel blocks",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "8",
+		"Product Volume": "1kg",
+		"Product Weight": "1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD13",
+		"Product Name": "Channel blocks",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "28",
+		"Product Volume": "5kg",
+		"Product Weight": "5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD13",
+		"Product Name": "Channel blocks",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "24",
+		"Product Volume": "Box of 72",
+		"Product Weight": "3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD18",
+		"Product Name": "Oven Cleaner ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "5",
+		"Product Volume": "2L",
+		"Product Weight": "2.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD18",
+		"Product Name": "Oven Cleaner ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "12.5",
+		"Product Volume": "5L",
+		"Product Weight": "5.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD18",
+		"Product Name": "Oven Cleaner ",
+		"Category": "Catering and Kitchen cleaners ",
+		"Product Price (USD)": "30",
+		"Product Volume": "25L ",
+		"Product Weight": "22.05kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD19",
+		"Product Name": "Drain Opener",
+		"Category": "Bulding division",
+		"Product Price (USD)": "5",
+		"Product Volume": " 2L",
+		"Product Weight": "3.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD19",
+		"Product Name": "Drain Opener",
+		"Category": "Bulding division",
+		"Product Price (USD)": "10",
+		"Product Volume": "5L",
+		"Product Weight": "8.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD20",
+		"Product Name": "Hard Surface Cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "3.5",
+		"Product Volume": "2L",
+		"Product Weight": "2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD20",
+		"Product Name": "Hard Surface Cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "7",
+		"Product Volume": "5L",
+		"Product Weight": "5.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD20",
+		"Product Name": "Hard Surface Cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "33",
+		"Product Volume": "25L ",
+		"Product Weight": "26kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD24",
+		"Product Name": "Tile cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "1.5",
+		"Product Volume": "750MLS",
+		"Product Weight": "2.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD24",
+		"Product Name": "Tile cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "5",
+		"Product Volume": "2L",
+		"Product Weight": "5.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD24",
+		"Product Name": "Tile cleaner",
+		"Category": "Floor cleaners ",
+		"Product Price (USD)": "25",
+		"Product Volume": "5L",
+		"Product Weight": "26.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD25",
+		"Product Name": "Chlorine",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "8",
+		"Product Volume": "1.5kg",
+		"Product Weight": "1.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD25",
+		"Product Name": "Chlorine",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "18",
+		"Product Volume": "4kg",
+		"Product Weight": "4kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD25",
+		"Product Name": "Chlorine",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "110",
+		"Product Volume": "25kg",
+		"Product Weight": "25kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD26",
+		"Product Name": "Pool Acid",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "3",
+		"Product Volume": "2L",
+		"Product Weight": "2.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD26",
+		"Product Name": "Pool Acid",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "6",
+		"Product Volume": "5L",
+		"Product Weight": "5.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD26",
+		"Product Name": "Pool Acid",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "27",
+		"Product Volume": "25L ",
+		"Product Weight": "28kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD27",
+		"Product Name": "Algae cure",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "3",
+		"Product Volume": "2L",
+		"Product Weight": "2.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD27",
+		"Product Name": "Algae cure",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "5",
+		"Product Volume": "5L",
+		"Product Weight": "4.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD27",
+		"Product Name": "Algae cure",
+		"Category": "Swimming Pool Care ",
+		"Product Price (USD)": "21",
+		"Product Volume": "25L ",
+		"Product Weight": "23kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD28",
+		"Product Name": "Alcohol based disinfectant ",
+		"Category": "Disinfectant Care ",
+		"Product Price (USD)": "20",
+		"Product Volume": "5L",
+		"Product Weight": "5.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD29",
+		"Product Name": "Toilet Dip",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "5.3",
+		"Product Volume": "5L",
+		"Product Weight": "5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "CD29",
+		"Product Name": "Toilet Dip",
+		"Category": "Toilet cleaners ",
+		"Product Price (USD)": "25",
+		"Product Volume": "25L ",
+		"Product Weight": "25kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT 7",
+		"Product Name": "Engine cleaner",
+		"Category": "Car care",
+		"Product Price (USD)": "2",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.6kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT 7",
+		"Product Name": "Engine cleaner",
+		"Category": "Car care",
+		"Product Price (USD)": "12.5",
+		"Product Volume": "5L",
+		"Product Weight": "4.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT 7",
+		"Product Name": "Engine cleaner",
+		"Category": "Car care",
+		"Product Price (USD)": "52",
+		"Product Volume": "25L ",
+		"Product Weight": "20.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT 8",
+		"Product Name": "Concentrated Degreaser",
+		"Category": "Car care",
+		"Product Price (USD)": "1.8",
+		"Product Volume": "750mls",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT 8",
+		"Product Name": "Concentrated Degreaser",
+		"Category": "Car care",
+		"Product Price (USD)": "11",
+		"Product Volume": "5L",
+		"Product Weight": "5.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT14",
+		"Product Name": "Battery Acid",
+		"Category": "Car care",
+		"Product Price (USD)": "1.6",
+		"Product Volume": "750MLS",
+		"Product Weight": "1.0kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT14",
+		"Product Name": "Battery Acid",
+		"Category": "Car care",
+		"Product Price (USD)": "7.8",
+		"Product Volume": "5L",
+		"Product Weight": "6",
+		"Vendor": "8kg"
+	},
+	{
+		"Product Code (article)": "MT13",
+		"Product Name": "Battery Water",
+		"Category": "Car care",
+		"Product Price (USD)": "0.8",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.7kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT13",
+		"Product Name": "Battery Water",
+		"Category": "Car care",
+		"Product Price (USD)": "5",
+		"Product Volume": "5L",
+		"Product Weight": "4.4kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT16",
+		"Product Name": "Car wash and wax",
+		"Category": "Car care",
+		"Product Price (USD)": "1.7",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.73kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "MT16",
+		"Product Name": "Car wash and wax",
+		"Category": "Car care",
+		"Product Price (USD)": "",
+		"Product Volume": "2L",
+		"Product Weight": "2kg",
+		"Vendor": ""
+	},
+	{
+		"Product Code (article)": "MT16",
+		"Product Name": "Car wash and wax",
+		"Category": "Car care",
+		"Product Price (USD)": "7.3",
+		"Product Volume": "5L",
+		"Product Weight": "5.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "BD01",
+		"Product Name": "Facebrick and motor descaler",
+		"Category": "Bulding division",
+		"Product Price (USD)": "3.12",
+		"Product Volume": "2L",
+		"Product Weight": "2.2kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "BD01",
+		"Product Name": "Facebrick and motor descaler",
+		"Category": "Bulding division",
+		"Product Price (USD)": "5.55",
+		"Product Volume": "5L",
+		"Product Weight": "5.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "BD01",
+		"Product Name": "Facebrick and motor descaler",
+		"Category": "Bulding division",
+		"Product Price (USD)": "24.01",
+		"Product Volume": "25L ",
+		"Product Weight": "27.5kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "BD03",
+		"Product Name": "Rust remover",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "7",
+		"Product Volume": "2L",
+		"Product Weight": "2.9kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "BD03",
+		"Product Name": "Rust remover",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "14.5",
+		"Product Volume": "5L",
+		"Product Weight": "5.8kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM01",
+		"Product Name": "Lacquer thinners",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "2.2000000000000002",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.63kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM01",
+		"Product Name": "Lacquer thinners",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "",
+		"Product Volume": "2L",
+		"Product Weight": "1.8Kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM01",
+		"Product Name": "Lacquer thinners",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "13",
+		"Product Volume": "5L",
+		"Product Weight": "4.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM21",
+		"Product Name": "Methylated spirit",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "2.2000000000000002",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.67kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM21",
+		"Product Name": "Methylated spirit",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "",
+		"Product Volume": "2L",
+		"Product Weight": "1.8Kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM21",
+		"Product Name": "Methylated spirit",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "13",
+		"Product Volume": "5L",
+		"Product Weight": "4.3kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM22",
+		"Product Name": "Mineral Turpentine",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "2.2000000000000002",
+		"Product Volume": "750MLS",
+		"Product Weight": "0.58kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": "RM22",
+		"Product Name": "Mineral Turpentine",
+		"Category": "Industrial/solvents division",
+		"Product Price (USD)": "13",
+		"Product Volume": "5L",
+		"Product Weight": "4.1kg",
+		"Vendor": "Strike"
+	},
+	{
+		"Product Code (article)": ""
+	}
+]
